@@ -1,0 +1,11 @@
+//scripts -> modules
+
+//module -> change page if section !== 2 and slides !== 4
+//module -> change Background Light
+//module -> module sliders - init slider->02
+//module -> module filter auctions, init slider->03
+//module showFaq
+//init slider->06
+//module button clicked -> getTypeButton -> show popup
+//module AnimationOnLoadPage
+//module PreloadPage
